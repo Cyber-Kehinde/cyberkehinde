@@ -1,18 +1,18 @@
-<h1>Hi, I'm Alli! <br> <a href="https://www.linkedin.com/in/kehindeallii/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Alli! <br> <a href="https://www.linkedin.com/in/kehindeallii/">Cybersecurity Professional</a> <a href="https://cyber-kehinde.github.io/Portfolio/Personal-Porfolio"></a></h1>
 
 <h2>👨‍💻 Home Labs and Projects:</h2>
 
 
 - <b>Active Directory and Identity Access Management Home Lab</b>
-  - [Implemented robust PowerShell scripts for automating Active Directory tasks, enhancing efficiency and reducing manual errors in user provisioning, de-provisioning, and group management.](https://github.com/Cyber-Kehinde)
-  - [Conducted comprehensive security assessments on the Active Directory environment, identifying and mitigating vulnerabilities, ensuring a resilient defense against potential cyber threats.)](https://github.com/Cyber-Kehinde)
-  - [Developed and maintained a robust monitoring system using PowerShell to detect and respond to suspicious activities within the Active Directory, enhancing the overall cybersecurity posture.](https://github.com/Cyber-Kehinde)
+  - [Implemented robust PowerShell scripts for automating Active Directory tasks, enhancing efficiency and reducing manual errors in user provisioning, de-provisioning, and group management.](https://cyber-kehinde.github.io/Portfolio/Personal-Porfolio)
+  - [Conducted comprehensive security assessments on the Active Directory environment, identifying and mitigating vulnerabilities, ensuring a resilient defense against potential cyber threats.)](https://cyber-kehinde.github.io/Portfolio/Personal-Porfolio)
+  - [Developed and maintained a robust monitoring system using PowerShell to detect and respond to suspicious activities within the Active Directory, enhancing the overall cybersecurity posture.](https://cyber-kehinde.github.io/Portfolio/Personal-Porfolio)
   
 - <b>Event Log Management Using Sysmon, PowerShell & PStools for Automation</b>
-  - [Implemented Sysmon, PowerShell scripts, and PStools to enhance malware detection and removal capabilities within the project lab environment.](https://github.com/Cyber-Kehinde)
-  - [Leveraged the combined power if Sysmon, PowerShell scripts, and PStools to enhance visibility into system activities, enabling proactive threat detection and incident response.](https://github.com/Cyber-Kehinde)
-  - [Developed custom PowerShell scripts to automate response actions to security events detected by Sysmon, streamlining incident response procedures and reducing manual intervention.](https://github.com/Cyber-Kehinde)
-  - [Conducted in-depth event log analysis using Sysmon and PowerShell, providing valuable insights into system behaviour and identifying potential security threats.](https://github.com/Cyber-Kehinde)
+  - [Implemented Sysmon, PowerShell scripts, and PStools to enhance malware detection and removal capabilities within the project lab environment.](https://cyber-kehinde.github.io/Portfolio/Personal-Porfolio)
+  - [Leveraged the combined power if Sysmon, PowerShell scripts, and PStools to enhance visibility into system activities, enabling proactive threat detection and incident response.](https://cyber-kehinde.github.io/Portfolio/Personal-Porfolio)
+  - [Developed custom PowerShell scripts to automate response actions to security events detected by Sysmon, streamlining incident response procedures and reducing manual intervention.](https://cyber-kehinde.github.io/Portfolio/Personal-Porfolio)
+  - [Conducted in-depth event log analysis using Sysmon and PowerShell, providing valuable insights into system behaviour and identifying potential security threats.](https://cyber-kehinde.github.io/Portfolio/Personal-Porfolio)
 
 <h2>👨‍💻 Working Experience:</h2>
 
@@ -42,10 +42,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Kehindealli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/kehindealli
-[Email]: kehindeallii@zohomail.com
+<a href="https://cyber-kehinde.github.io/Portfolio/Personal-Porfolio"> <b> Website</b></a> <br>
+<a href="https://linkedin.com/in/kehindeallii"> <b>LinkedIn</b></a> <br>
+<a href="mailto:kehindeallii@zohomail.com"> <b>Email</b></a>
 
 
 
